@@ -42,7 +42,7 @@ h1{
     font-size: 3em;
 }
 
-nav, h2,{
+nav, h2{
     font-size: 1.5em;
 }
 
@@ -62,12 +62,11 @@ h4{
 #development, #career, #relationship, #community, #focused,#interactive, #flexible{
     background-color: white;
     border-radius: 10px 10px 10px 10px;
-    top-padding: 40px;
-    bottom-padding: 20px;
+    padding-top: 40px;
+    padding-bottom: 20px;
     padding-left: 20px;
     margin-bottom: 20px;
     margin-top: 10px;
-
 }
 
 #services img{
@@ -101,7 +100,7 @@ ul{
 }
 ul li{
     background-color: white;
-    color:#484FB7
+    color:#484FB7;
     margin-bottom: 10px;
     padding: 10px ;
 }
@@ -135,7 +134,7 @@ th{
     background-color:#E9BB57 ;
 }
 tbody{
-    background-color: white
+    background-color: white;
 }
 th, td{
     padding: 10px;
@@ -220,7 +219,7 @@ th, td{
 
 
 a{
-    color: blue;
+    color: #484FB7;
     text-decoration: none;
 }
 
@@ -233,13 +232,12 @@ a{
 
 button{
     background-color: white;
-    color: black
+    color: black;
     width: 200px;
     height: auto;
     border-radius: 10px;
     padding: 10px;
     margin: 10px;
-    border: 1px;
     font-size: 1.2em;
     font-family: inter;
     text-align: center;
@@ -255,7 +253,7 @@ button{
 }
 
 #first-step h2{
-    padding-top: 15px 15px;
+    padding-top: 15px;
 }
 
 #first-step *{
@@ -264,7 +262,7 @@ button{
 }
 
 button a{
-    color: black;
+    color: #484FB7;
     text-decoration: none;
 }
 
@@ -277,12 +275,12 @@ footer{
 }
 
 footer a{
-    color: white;
+    color: #484FB7;
     text-decoration: underline;  
 }
 
 footer *{
-    color: white
+    color: white;
 }
 
 
